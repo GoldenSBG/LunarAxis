@@ -1,0 +1,29 @@
+# IntelliJ IDEA / JetBrains
+.idea/
+*.iml
+out/
+gen/
+# Maven build output
+/target/
+
+# Compiled files outside the Maven target directory
+*.class
+*.log
+
+# BlueJ
+*.ctxt
+
+# J2ME
+.mtj.tmp/
+
+# Archives and packages
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# JVM crash logs
+hs_err_pid*
+replay_pid*
